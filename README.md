@@ -14,7 +14,7 @@ cd clean-services-app-back
 # usage
 > Copy the application.properties.example.  
 > Rename the file to application.properties.  
-> Complete the between {} by your data.
+> Complete the between {} by your data.  
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/{your_database_name}
 spring.datasource.username={your_username}
@@ -25,6 +25,7 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.servlet.multipart.max-file-size=50MB
 spring.servlet.multipart.max-request-size=50MB
 ```
+> Finally make sure to create the database first before running the application.
 
 # Functionalities
 - Search offers published, filter the offers.
