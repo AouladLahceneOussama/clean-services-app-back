@@ -1,5 +1,5 @@
 # clean-services-app-back
-This application is the front-end part of the clean-services app made using react native framework, the idea of the project if to manage the mobile clean services, like car cleaning, carpets, houses,....The application manage all type of users clients, workers, admins and make the communication between the worker and the clients easier by generating automessages and use whatsapp directly to connect and many features.
+This application is the back-end part of the clean-services app made using react native framework, the idea of the project if to manage the mobile clean services, like car cleaning, carpets, houses,....The application manage all type of users clients, workers, admins and make the communication between the worker and the clients easier by generating automessages and use whatsapp directly to connect and many features.
 
 # Requirements
 - java 1.8.0_202
